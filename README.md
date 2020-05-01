@@ -9,11 +9,15 @@ Look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CA
 
 ## Bug reports
 
-How to enter a bug report issue
+How to enter a [bug report issue](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/issues/new/choose)
 
 ## Feature requests
 
-How to enter a feature request or enhancement to a tool issue
+How to enter a [feature request or enhancement](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/issues/new/choose) to a tool issue
+
+## Project
+
+You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/projects/1)
 
 ## Using SLACK to communicate directly with the developers
 
