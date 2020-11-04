@@ -44,10 +44,10 @@ This diagram lists all the commands and shortcuts that are possible for both mod
 
 ![Diagram of commands](media/commands.png)
 
-The top section shows the controller buttons. 
-Sometimes you have to play around with the controller for the VR setup to find where the `MENU 2` button is or the grip. 
-On some controllers the touchpad is replaced by a joystick; experiment to find out how to view and select from the options on the radial menus.
-The bottom sections shows the keyboard commands and shortcuts to do the equivalent action in non-VR mode.
+The top section shows the VR controller button actions.
+Sometimes you have to play around with the controller for the VR setup to find where the `MENU 2` button or the grip is located.
+On some VR controllers the touchpad is replaced by a joystick; experiment to find out how to view and select from the options on the radial menus.
+The bottom section shows the keyboard commands and shortcuts to do the equivalent action in non-VR mode.
 Non-VR mode users can do everything that VR mode users can do, except use the drawing tools to mark up the video.
 
 ## Setting up CAVA360VR with your own data
@@ -71,18 +71,19 @@ _COPIED_TO_BUILD_\lego-transcript.txt
 These files listed will be in the `_COPIED_TO_BUILD_` folder.
 - The first file is the master 360 video. 
 It is an MP4 file.
-- The second file is a synced 2D video.
+- The second file is a synced 2D video. 
+See our [online video that can help you edit and render synced videos](https://youtu.be/FWZy9PK_ODw).
 It is an MP4 file.
 - The third file is a transcript as a text file.
 It is a TXT file, but it can be an image as well (PNG).
 
 Next steps:
-1. You need to delete those files, replace them with your own in the same folder, and change the filenames in the `project.txt` to match your filenames.
-    - An alternative is to first make a copy of the whole folder in which the CAVA360VR program resides, and rename it with an indication that it is your data, eg. `CAVA360VR My Data`.
+1. You need to delete those three files, replace them with your own in the same folder, and change the filenames in the `project.txt` to match your filenames.
+    - A cleaner alternative is to first make a copy of the whole folder in which the CAVA360VR program resides, and rename it with an indication that it is your data, eg. `CAVA360VR My Data`.
 Then you can delete the files above in your copy.
-The original Lego demo project will still be available.
+The original Lego demo project will still be available in the original folder.
 1. Make sure that your video files are not too large, because you will have to share them with everyone else in the session so they need to be downloadable.
-1. If you do not have a synced 2D video then just leave the line blank.
+1. If you do not have a synced 2D video or a transcript, then just leave the line blank.
 
 Your `project.txt` file will now look something like this:
 
