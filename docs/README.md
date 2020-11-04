@@ -1,6 +1,4 @@
-# CAVA360VR beta testing help guide
-
-This is a help guide for setting up and using our beta prototype version of multi-user CAVA360VR.
+This is a help guide for setting up and using our beta prototype version of multi-user CAVA360VR (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_).
 
 ## Requirements
 
@@ -18,6 +16,15 @@ Or download the latest version from the link you were provided with.
 1. Unzip the file you downloaded and copy the folder to the location you prefer, for example in `C:/Program Files` on Windows 10.
 1. There is no program to install.
 Just double click on the CAVA360VR.exe file to run CAVA360VR.
+The file is found in the folder as follows:
+
+```
+CAVA360VR_Data
+MonoBleedingEdge
+CAVA360VR.exe
+UnityCrashHandler64.exe
+UnityPlayer.dll
+```
 
 ## How to use CAVA360VR
 
@@ -71,6 +78,18 @@ Next steps:
 Then you can delete the files above in your copy.
 The original Lego demo project will still be available.
 1. Make sure that your video files are not too large, because you will have to share them with everyone else in the session so they need to be downloadable.
+1. If you do not have a synced 2D video then just leave the line blank.
+
+Your `project.txt` file will now look something like this:
+
+```
+_COPIED_TO_BUILD_\My 360 video.mp4
+_COPIED_TO_BUILD_\My 2D video.mp4
+_COPIED_TO_BUILD_\My transcript.txt
+```
+
+Next steps:
+1. Test by opening CAVA360VR to see if the 360 video (and 2D video or transcript) are present and playable. 
 1. To share, go up to the folder above the `CAVA360VR.exe` program.
 1. Right click on the folder and select `Send to/Compressed (zipped) folder`.
 A file will be generated, something like `CAVA360VR...zip`.
