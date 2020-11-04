@@ -72,8 +72,8 @@ These files listed will be in the `_COPIED_TO_BUILD_` folder.
 - The first file is the master 360 video. 
 It is an MP4 file.
 - The second file is a synced 2D video. 
-See our [online video that can help you edit and render synced videos](https://youtu.be/FWZy9PK_ODw).
 It is an MP4 file.
+See our [online video that can help you edit and render synced videos](https://youtu.be/FWZy9PK_ODw).
 - The third file is a transcript as a text file.
 It is a TXT file, but it can be an image as well (PNG).
 
@@ -102,6 +102,16 @@ A file will be generated, something like `CAVA360VR...zip`.
 You can add a password and send that password to everyone who needs to unzip the archive.
 1. This zip archive can be sent to everyone who needs it.
 If they use the wrong CAVA360VR package, however, then they will see a different 360 video and things will get a little crazy.
+
+## Notes
+- CAVA360VR is a prototype. 
+It is not meant for public use.
+Please do not share with others unless permission has been given by the developers.
+- CAVA360VR uses a multi-user network gaming service with a built-in account that is registered to BigSoftVideo.
+This allows 20 simultaneous users for all versions of CAVA360VR.
+Therefore, if several groups are using the software at the same time but independently, then the total number of users cannot exceed 20.
+- Future development will allow users to create their own account with the network gaming service and run CAVA360VR completely independently.
+- Because of these restrictions, please do not use CAVA360VR for non-research purposes.
 
 ## Bug reports
 
