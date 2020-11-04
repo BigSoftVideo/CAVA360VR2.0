@@ -44,6 +44,10 @@ This diagram lists all the commands and shortcuts that are possible for both mod
 
 ![Diagram of commands](media/commands.png)
 
+The top section shows the controller buttons. 
+Sometimes you have to play around with the controller for the VR setup to find where the `MENU 2` button is or the grip. 
+On some controllers the touchpad is replaced by a joystick; experiment to find out how to view and select from the options on the radial menus.
+The bottom sections shows the keyboard commands and shortcuts to do the equivalent action in non-VR mode.
 Non-VR mode users can do everything that VR mode users can do, except use the drawing tools to mark up the video.
 
 ## Setting up CAVA360VR with your own data
