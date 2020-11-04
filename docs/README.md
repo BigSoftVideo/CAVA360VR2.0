@@ -93,10 +93,10 @@ Next steps:
 1. To share, go up to the folder above the `CAVA360VR.exe` program.
 1. Right click on the folder and select `Send to/Compressed (zipped) folder`.
 A file will be generated, something like `CAVA360VR...zip`.
-    - If you require encryption, then you will have to use free zip archiving software such as 7-zip ow WinZip.
+    - If you require encryption, then you will have to use free zip archiving software such as _7-zip_ or _WinZip_.
 You can add a password and send that password to everyone who needs to unzip the archive.
 1. This zip archive can be sent to everyone who needs it.
-If they use the wrong CAVA360VR package, then they will see some other 360 video and things will get a little crazy.
+If they use the wrong CAVA360VR package, however, then they will see a different 360 video and things will get a little crazy.
 
 ## Bug reports
 
