@@ -1,1 +1,22 @@
 theme: jekyll-theme-modernist
+title: CAVA360VR Beta-testing help guide
+description: Help pages for beta-testers
+URL: "https://bigsoftvideo.github.io/CAVA360VR-beta-testing"
+image: "media/logo.png"
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - contributing.md
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
