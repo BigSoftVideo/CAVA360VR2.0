@@ -50,24 +50,31 @@ Open it in a plain text editor like _Notepad_.
 1. Open the subfolder `_COPIED_TO_BUILD_`.
 1. In this folder you will find some files that are listed in the `project.txt` file you already opened.
 For example, the file may contain the following three lines:
-> _COPIED_TO_BUILD_\Insta360 short G1 audio.mp4
-> _COPIED_TO_BUILD_\G1 GoPro short.mp4
-> _COPIED_TO_BUILD_\lego-transcript.txt
 
-And those files listed will be in the `_COPIED_TO_BUILD_` folder.
-The first file is the master 360 video.
-The second file is a synced 2D video.
-The third file is a transcript as a text file.
+```
+_COPIED_TO_BUILD_\Insta360 short G1 audio.mp4
+_COPIED_TO_BUILD_\G1 GoPro short.mp4
+_COPIED_TO_BUILD_\lego-transcript.txt
+```
 
+These files listed will be in the `_COPIED_TO_BUILD_` folder.
+- The first file is the master 360 video. 
+It is an MP4 file.
+- The second file is a synced 2D video. 
+It is an MP4 file.
+- The third file is a transcript as a text file.
+It is a TXT file, but it can be an image as well (PNG).
+
+Next steps:
 1. You need to delete those files, replace them with your own in the same folder, and change the filenames in the `project.txt` to match your filenames.
-An alternative is to first make a copy of the whole folder in which the CAVA360VR program resides, and rename it with an indication that it is your data, eg. `CAVA360VR My Data`.
+    - An alternative is to first make a copy of the whole folder in which the CAVA360VR program resides, and rename it with an indication that it is your data, eg. `CAVA360VR My Data`.
 Then you can delete the files above in your copy.
 The original Lego demo project will still be available.
 1. Make sure that your video files are not too large, because you will have to share them with everyone else in the session so they need to be downloadable.
 1. To share, go up to the folder above the `CAVA360VR.exe` program.
 1. Right click on the folder and select `Send to/Compressed (zipped) folder`.
 A file will be generated, something like `CAVA360VR...zip`.
-1. If you require encryption, then you will have to use free zip archiving software such as 7-zip ow WinZip.
+    - If you require encryption, then you will have to use free zip archiving software such as 7-zip ow WinZip.
 You can add a password and send that password to everyone who needs to unzip the archive.
 1. This zip archive can be sent to everyone who needs it. 
 If they use the wrong CAVA360VR package, then they will see some other 360 video and things will get a little crazy.
@@ -89,4 +96,5 @@ This link will only work if you have an account on GitHub and are a member of th
 
 ## Using SLACK to communicate directly with the developers
 
-We are using a channel #CAVA-beta on our BigVideo workspace on Slack to share thoughts and fix issues interactively with beta-testers. Please ask the developers if you would like to join.
+We are using a channel #CAVA-beta on our BigVideo workspace on Slack to share thoughts and fix issues interactively with beta-testers.
+Please ask the developers if you would like to join.
