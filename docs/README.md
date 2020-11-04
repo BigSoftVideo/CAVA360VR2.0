@@ -11,12 +11,12 @@ It is best to always use headphones to avoid feedback looping.
 ## How to download and setup CAVA360VR
 
 1. It is quite easy to download a release as a ZIP file, unzip it on your computer and run it on WINDOWS 10.
-Look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/releases) page in this repo.
+Look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/releases) page in this repository on GitHub.
 Or download the latest version from the link you were provided with.
 1. Unzip the file you downloaded and copy the folder to the location you prefer, for example in `C:/Program Files` on Windows 10.
 1. There is no program to install.
-Just double click on the CAVA360VR.exe file to run CAVA360VR.
-The file is found in the folder as follows:
+Just double click on the `CAVA360VR.exe` file to run CAVA360VR.
+The file is found in the unzipped folder which comprises the following files and folders:
 
 ```
 CAVA360VR_Data
@@ -28,8 +28,8 @@ UnityPlayer.dll
 
 ## How to use CAVA360VR
 
-Every time you run CAVA360VR you will need to connect to a remote server to access the CAVA room that you or another user has designated. 
-Everyone has to connect to the same room, so type the exact name into the box. 
+Every time you run CAVA360VR you will need to connect to a remote server to access the CAVA room that you or another user has designated.
+Everyone has to connect to the same room, so type the exact name into the box.
 Also, add your username for the session.
 If the room name is correct, then you will see other users and their avatars in the room if they are already present.
 
@@ -40,7 +40,7 @@ The 2D video clip and the transcript are only visible if you user performs the n
 
 ## Commands and shortcuts for VR and non-VR
 
-This diagram lists all the commands and shortcuts that are possible for both modes. 
+This diagram lists all the commands and shortcuts that are possible for both modes.
 
 ![Diagram of commands](media/commands.png)
 
@@ -52,7 +52,7 @@ To setup CAVA360VR to use your data, then there are some steps involving copying
 
 1. Locate and open the folder in which the CAVA360VR program resides.
 1. Open the subfolder `CAVA360VR_Data`.
-1. In this folder you will find a file called `project.txt`. 
+1. In this folder you will find a file called `project.txt`.
 Open it in a plain text editor like _Notepad_.
 1. Open the subfolder `_COPIED_TO_BUILD_`.
 1. In this folder you will find some files that are listed in the `project.txt` file you already opened.
@@ -67,7 +67,7 @@ _COPIED_TO_BUILD_\lego-transcript.txt
 These files listed will be in the `_COPIED_TO_BUILD_` folder.
 - The first file is the master 360 video. 
 It is an MP4 file.
-- The second file is a synced 2D video. 
+- The second file is a synced 2D video.
 It is an MP4 file.
 - The third file is a transcript as a text file.
 It is a TXT file, but it can be an image as well (PNG).
@@ -95,7 +95,7 @@ Next steps:
 A file will be generated, something like `CAVA360VR...zip`.
     - If you require encryption, then you will have to use free zip archiving software such as 7-zip ow WinZip.
 You can add a password and send that password to everyone who needs to unzip the archive.
-1. This zip archive can be sent to everyone who needs it. 
+1. This zip archive can be sent to everyone who needs it.
 If they use the wrong CAVA360VR package, then they will see some other 360 video and things will get a little crazy.
 
 ## Bug reports
@@ -115,5 +115,5 @@ This link will only work if you have an account on GitHub and are a member of th
 
 ## Using SLACK to communicate directly with the developers
 
-We are using a channel #CAVA-beta on our BigVideo workspace on Slack to share thoughts and fix issues interactively with beta-testers.
+We are using a channel #cava-beta on our BigVideo workspace on Slack to share thoughts and fix issues interactively with beta-testers.
 Please ask the developers if you would like to join.
