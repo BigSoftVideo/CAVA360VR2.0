@@ -36,7 +36,7 @@ If the room name is correct, then you will see other users and their avatars in 
 NOTE: The basic version of CAVA360VR comes with the Lego Demo Project, which has two videos and a transcript included under a Creative Commons CC BY-NC-SA 4.0 International license.
 The video data for this project is about 160MB.
 When you run the software and enter the designated room, then you will see the 360 video automatically.
-The 2D video clip and the transcript are only visible if you user performs the necessary action (see below).
+The 2D video clip and the transcript are only visible if the user performs the command to do so (see below).
 
 ## Commands and shortcuts for VR and non-VR
 
@@ -130,5 +130,5 @@ This link will only work if you have an account on GitHub and are a member of th
 
 ## Using SLACK to communicate directly with the developers
 
-We are using a channel #cava-beta on our BigVideo workspace on Slack to share thoughts and fix issues interactively with beta-testers.
+We are using a channel `#cava-beta` on our BigVideo workspace on Slack to share thoughts and fix issues interactively with beta-testers.
 Please ask the developers if you would like to join.
