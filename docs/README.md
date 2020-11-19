@@ -31,6 +31,7 @@ UnityPlayer.dll
 Every time you run CAVA360VR you will need to connect to a remote server to access the CAVA room that you or another user has designated.
 Everyone has to connect to the same room, so type the exact name into the box.
 Also, add your username for the session.
+Don't forget to untick the VR mode box if you do NOT have a VR headset.
 If the room name is correct, then you will see other users and their avatars in the room if they are already present.
 
 NOTE: The basic version of CAVA360VR comes with the Lego Demo Project, which has two videos and a transcript included under a Creative Commons CC BY-NC-SA 4.0 International license.
