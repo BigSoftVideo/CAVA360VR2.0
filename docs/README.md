@@ -103,6 +103,13 @@ You can add a password and send that password to everyone who needs to unzip the
 1. This zip archive can be sent to everyone who needs it.
 If they use the wrong CAVA360VR package, however, then they will see a different 360 video and things will get a little crazy.
 
+## NOTES on 360 video clips
+- The resolution and bit rate of the 360 video should be as high as possible, otherwise the video playback will be blocky and blurred in VR.
+Use the raw footage and render at a high bit rate using the camera software (or _MistikaVR_).
+- Stitch the raw footage carefully so that the stitch lines between lenses are not too visible.
+- With mobile 360 cameras use stabilisation while filming or stabilise later in the camera software.
+_MistikaVR_ has tools for re-stabilising, but it is not free and it takes some effort.
+
 ## Notes
 - CAVA360VR is a prototype. 
 It is not meant for public use.
