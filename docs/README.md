@@ -105,8 +105,8 @@ If they use the wrong CAVA360VR package, however, then they will see a different
 
 ## NOTES on 360 video clips
 - The resolution and bit rate of the 360 video should be as high as possible, otherwise the video playback will be blocky and blurred in VR.
-- The dimensions of the 360 video should be 4K or UHD, eg. from 3840x1920 up to 4096x2160.
 Use the raw footage and render at a high bit rate using the camera software (or _MistikaVR_).
+- The dimensions of the 360 video should be 4K or UHD, eg. from 3840x1920 up to 4096x2160.
 - Stitch the raw footage carefully so that the stitch lines between lenses are not too visible.
 - With mobile 360 cameras use stabilisation while filming or stabilise later in the camera software.
 _MistikaVR_ has tools for re-stabilising, but it is not free and it takes some effort.
@@ -131,7 +131,7 @@ This link will only work if you have an account on GitHub and are a member of th
 How to enter a [feature request or enhancement](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/issues/new/choose) to a tool issue.
 This link will only work if you have an account on GitHub and are a member of the beta-testing group.
 
-## Project
+## Tracking bugs and feature requests
 
 You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/projects/1).
 This link will only work if you have an account on GitHub and are a member of the beta-testing group.
