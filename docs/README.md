@@ -10,9 +10,12 @@ It is best to always use headphones to avoid feedback looping.
 
 ## How to download and setup CAVA360VR
 
+It is quite easy to download a release build as a ZIP file, unzip it on your computer and run it on WINDOWS 10.
+If you are trying the release with the Lego Demo project, then look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/releases) page in this repo. If, however, you are taking part in a special CAVA session, then you will need to download the CAVA package supplied by the data holder.
+
 1. It is quite easy to download a release as a ZIP file, unzip it on your computer and run it on WINDOWS 10.
-Look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/releases) page in this repository on GitHub.
-Or download the latest version from the link you were provided with.
+If you are trying the release with the Lego Demo project, then look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/releases) page in this repo.
+If, however, you are taking part in a special CAVA session, then you will need to download the CAVA package supplied by the data holder.
 1. Unzip the file you downloaded and copy the folder to the location you prefer, for example in `C:/Program Files` on Windows 10.
 1. There is no program to install.
 Just double click on the `CAVA360VR.exe` file to run CAVA360VR.
