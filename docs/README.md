@@ -54,6 +54,20 @@ On some VR controllers the touchpad is replaced by a joystick; experiment to fin
 The bottom section shows the keyboard commands and shortcuts to do the equivalent action in non-VR mode.
 Non-VR mode users can do everything that VR mode users can do, except use the drawing tools to mark up the video.
 
+## Cooperating in CAVA360VR
+
+It is really important to appreciate how CAVA360VR affords a particular democratic model of virtual cooperation.
+Basically, all tools are shared by everyone, even though you can reposition them independently.
+If a tool is opened, then everyone sees it, eg. timeline, transcript, 2D video window or mirror cam.
+Note that where the tool is located in 3D is personal to each avatar.
+Anyone in a room can open and close the shared tools, and the action will happen for everyone, eg. if someone closes the open timeline, then it is closed for everyone.
+Thus, it supports more democratic participation than the host/guest model.
+For example, Zoom has a built-in host/guest model that means the host(s) have more privileges than guests.
+Guests cannot do very much in a room, unless given permission by the host(s).
+However, the CAVA model can be abused if everyone tries to take control of a tool at the same time!
+Thus, cooperation can often be better managed via the share audio chat channel.
+Note that the mirror cam supports a host, but anyone can take over the host role at will.
+
 ## Setting up CAVA360VR with your own data
 
 To setup CAVA360VR to use your data, then there are some steps involving copying files and editing a plain text file that must be undertaken:
