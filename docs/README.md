@@ -54,7 +54,7 @@ On some VR controllers the touchpad is replaced by a joystick; experiment to fin
 The bottom section shows the keyboard commands and shortcuts to do the equivalent action in non-VR mode.
 Non-VR mode users can do everything that VR mode users can do, except use the drawing tools to mark up the video.
 
-## Cooperating in CAVA360VR
+## Cooperating in CAVA360VR rooms
 
 It is really important to appreciate how CAVA360VR affords a particular democratic model of virtual cooperation.
 Basically, all tools are shared by everyone, even though you can reposition them independently.
