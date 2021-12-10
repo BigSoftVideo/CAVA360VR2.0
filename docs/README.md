@@ -87,13 +87,15 @@ _COPIED_TO_BUILD_\lego-transcript.txt
 ```
 
 These files listed will be in the `_COPIED_TO_BUILD_` folder.
-- The first file is the master 360 video. 
+- The first file is the master 360 video.
 It is an MP4 file.
-- The second file is a synced 2D video. 
+See below for recommended resolution, etc.
+- The second file is a synced 2D video.
 It is an MP4 file.
 See our [online video that can help you edit and render synced videos](https://youtu.be/FWZy9PK_ODw).
-- The third file is a transcript as a text file.
-It is a TXT file, but it can be an image as well (PNG).
+- The third file is a transcript.
+It can be a plain text (`TXT`) file, but it can also be an image as well (`PNG` or `JPG`).
+Test to see how they display in CAVA360VR.
 
 Next steps:
 1. You need to delete those three files, replace them with your own in the same folder, and change the filenames in the `project.txt` to match your filenames.
@@ -111,6 +113,14 @@ _COPIED_TO_BUILD_\My 2D video.mp4
 _COPIED_TO_BUILD_\My transcript.txt
 ```
 
+or
+
+```
+_COPIED_TO_BUILD_\My 360 video.mp4
+_COPIED_TO_BUILD_\My 2D video.mp4
+_COPIED_TO_BUILD_\My transcript.png
+```
+
 Next steps:
 1. Test by opening CAVA360VR to see if the 360 video (and 2D video or transcript) are present and playable. 
 1. To share, go up to the folder above the `CAVA360VR.exe` program.
@@ -121,13 +131,16 @@ You can add a password and send that password to everyone who needs to unzip the
 1. This zip archive can be sent to everyone who needs it.
 If they use the wrong CAVA360VR package, however, then they will see a different 360 video and things will get a little crazy.
 
-## NOTES on 360 video clips
+## NOTES on 360 and 2D video clips
 - The resolution and bit rate of the 360 video should be as high as possible, otherwise the video playback will be blocky and blurred in VR.
 Use the raw footage and render at a high bit rate using the camera software (or _MistikaVR_).
 - The dimensions of the 360 video should be 4K or UHD, eg. from 3840x1920 up to 4096x2160.
+Do not use 5K or 8K clips.
+Many computers will not be able to play such high resolution video, especially not when playing at the same time as an inserted 2D video clip.
 - Stitch the raw footage carefully so that the stitch lines between lenses are not too visible.
 - With mobile 360 cameras use stabilisation while filming or stabilise later in the camera software.
 _MistikaVR_ has tools for re-stabilising, but it is not free and it takes some effort.
+- The 2D video clip is best at HD resolution, not 4K.
 
 ## Notes
 - CAVA360VR is a prototype. 
