@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve CAVA360VR
 title: "[BUG] "
 labels: bug
-assignees: ArturKovacs, skandilocks
+assignees: LiminalSpaces, skandilocks, codeslayer84
 
 ---
 
