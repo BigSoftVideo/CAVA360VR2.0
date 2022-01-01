@@ -3,7 +3,7 @@ name: Feature request or enhancement
 about: Suggest an idea for improving the CAVA360VR project
 title: "[Feature] "
 labels: feature request
-assignees: ArturKovacs, skandilocks, codeslayer84
+assignees: LiminalSpaces, skandilocks, codeslayer84
 
 ---
 
