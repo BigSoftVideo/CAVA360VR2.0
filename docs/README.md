@@ -4,24 +4,60 @@ This is a help guide for setting up and using our open-source beta version of mu
 
 Anyone who wishes to take part in a CAVA360VR session needs to install a version of the software on their laptop/PC with Windows 10 /11.
 An internet connection is required.
-- If a user wishes to use it in VR mode, then they will need a VR headset installed with SteamVR.
+    - A VR headset installed with SteamVR.
     - Most high-end VR headsets work that have to be connected to a computer, eg. HTC VIVE PRO, HP REVERB, OCULUS RIFT, HTC COSMOS, VALVE INDEX have been tested.
     - The Oculus Quest 2 (with link) has been tested.
 - Make sure that your audio speakers and microphone are working on your computer or your VR headset.
 It is best to always use headphones to avoid feedback looping.
 
-## How to download and setup CAVA360VR
+## How to download and setup CAVA360VR<sup>2</sup>
 
-It is quite easy to download a release build as a ZIP file, unzip it on your computer and run it on WINDOWS 10/11.
-If you are trying the release with the Lego Demo project, then look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/releases) page in this repo.
+It is quite easy to download a release as a ZIP file, unzip it on your computer and run it on WINDOWS 10/11.
+The downloaded file is the CAVA<sup>2</sup>Builder, which you need to create a CAVA<sup>2</sup> session. 
 
-1. It is quite easy to download a release as a ZIP file, unzip it on your computer and run it on WINDOWS 10/11.
-If you are trying the release with the Lego Demo project, then look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/releases) page in this repo.
-If, however, you are taking part in a special CAVA session, then you will need to download the CAVA package supplied by the data holder, which will contain all the audiovisual data needed for the session.
-1. Unzip the file you downloaded and copy the folder to the location you prefer, for example in `C:/Program Files`.
-2. There is no program to install.
-Just double click on the `CAVA360VR.exe` file to run CAVA360VR.
-The file is found in the unzipped folder which comprises the following files and folders:
+Follow these steps
+## Step 1: Prepare your system
+- Ensure you have a **VR-ready computer** with internet connectivity.
+- Supported HMDs include:
+  - Oculus Rift S
+  - HTC Cosmos
+  - HTC VIVE Pro 1+2
+  - HP Reverb G2
+- Confirm that built-in microphones are functioning for voice communication.
+
+## Step 2: Obtain the CAVA360VR2 Installer
+- Acquire the **CAVA360VR<sup>2</sup>** and the **CAVAbuilder tool** via this link.
+
+## Step 3: Install and Configure CAVA360VR2
+1. Launch the **CAVAbuilder tool**.
+2. Input and verify your **Photon Voice App ID**:
+   - Sign up for Photon Engine services [here](https://www.photonengine.com/).
+   - Note: The free version supports up to 20 users.
+3. Add synchronized (it is really important that the media files are in sync) media files to your project:
+   - 360-degree videos
+   - 2D video files
+   - Images or 3D objects
+
+## Step 4: Build Your Project
+- Use **CAVAbuilder** to compile all files and settings into a project folder.
+- The folder will include:
+  - Selected files
+  - A unique **Photon App ID**
+  - An executable file (`.exe`) for launching the CAVA360VR<sup>2</sup> projet
+
+## Step 5: Launch and Connect
+1. Share the project folder securely with all participants.
+2. Open the `.exe` file on each participant's system.
+3. Enter your preferred username when prompted.
+4. Begin your collaborative VR session:
+   - Use the **file browser**, timelines, and interaction tools to navigate and collaborate in the VR space.
+
+---
+
+### Notes
+- Ensure all media files are synchronized before importing them into the project.
+- Follow GDPR regulations by avoiding the inclusion of sensitive personal data.
+
 
 ```
 CAVA360VR_Data
