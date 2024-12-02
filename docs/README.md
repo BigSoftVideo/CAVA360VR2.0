@@ -1,5 +1,4 @@
-This is a help guide for setting up and using our open-source beta version of multi-user CAVA360VR<sup>2</sup> (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_). CAVA<sup>2</sup> is multiuser Virtual Reality application. 
-
+This is a help guide for setting up and using our open-source version of multi-user CAVA360VR<sup>2</sup> (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_). CAVA<sup>2</sup> is multiuser Virtual Reality application. CAVA<sup>2</sup> is build on our prototype CAVA360VR (never released) and our free tool [AVA360VR](https://bigsoftvideo.github.io/AVA360VR/).
 ## Requirements
 
 Anyone who wishes to take part in a CAVA<sup>2</sup> session needs to install a version of the software on their laptop/PC with Windows 10 /11.
