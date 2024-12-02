@@ -1,13 +1,17 @@
-This is a help guide for setting up and using our open-source version of multi-user CAVA360VR<sup>2</sup> (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_). CAVA<sup>2</sup> is multiuser Virtual Reality application. CAVA<sup>2</sup> is build on our prototype CAVA360VR (never released) and our free tool [AVA360VR](https://bigsoftvideo.github.io/AVA360VR/).
+This is a help guide for setting up and using our open-source version of multi-user CAVA360VR<sup>2</sup> (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_). CAVA<sup>2</sup> is multiuser Virtual Reality application. CAVA<sup>2</sup> is build on our prototype CAVA360VR (never released) and our free tool [AVA360VR](https://bigsoftvideo.github.io/AVA360VR/). Our ambition is to create an open source project for collaborative immersive analysis and training. 
+
+Below we outline the requirements, how to setup a project, 10 features of CAVA<sup>2</sup> and how to contribute to the project. 
+
+
 ## Requirements
 
-Anyone who wishes to take part in a CAVA<sup>2</sup> session needs to install a version of the software on their laptop/PC with Windows 10 /11.
+Anyone who wishes to take part in a CAVA<sup>2</sup> session needs to install a version of the software on their laptop/PC with Windows 10 /11. CAVA<sup>2</sup> is **not** available on stand-alone headsets. 
 An internet connection is required.
     - A VR headset installed with SteamVR.
     - Most high-end VR headsets work that have to be connected to a computer, eg. HTC VIVE PRO, HP REVERB, OCULUS RIFT, HTC COSMOS, VALVE INDEX have been tested.
     - The Oculus Quest 2 (with link) has been tested.
 - Make sure that your audio speakers and microphone are working on your computer or your VR headset.
-It is best to always use headphones to avoid feedback looping.
+
 
 ## How to download and setup CAVA360VR<sup>2</sup>
 
@@ -173,21 +177,6 @@ However, the CAVA model can be abused if everyone tries to take control of a too
 Thus, cooperation can often be better managed via the share audio chat channel.
 Note that the mirror cam supports a host, but anyone can take over the host role at will.
 
-## Setting up CAVA360VR with your own data
-
-To setup CAVA360VR to use your data, then there are some steps to follow:
-
-1. Locate and open the folder in which the CAVA<sup>2</sup> program resides and run the program.
-2. 
-
-
-Next steps:
-1. Test by opening CAVA360VR to see if the 360 video (and 2D video or transcript) are present and playable.
-2. 
-
-NOTE: If you require encryption, then you will have to use free zip archiving software such as _7-zip_ or _WinZip_.
-You can add a password and send that password to everyone who needs to unzip the archive.
-This zip archive can be sent to everyone who needs it.
 
 NOTE: If a user downloads the wrong CAVA<sup>2</sup> package, then they will see a different 360 video and things will get a little crazy.
 
@@ -214,6 +203,11 @@ If several groups are using the same accoount at the same time but independently
 
 How to enter a [bug report issue](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/issues/new/choose).
 This link will only work if you have an account on GitHub and are a member of the beta-testing group.
+
+## Contributing
+
+Please clone or fork the repo and contribute on GitHub.
+We welcome pull requests on the `development` branch or branches off development.
 
 ## Feature requests
 
