@@ -38,12 +38,16 @@ Follow these steps
    - 2D video files
    - Images or 3D objects
 
+
 ## Step 4: Build Your Project
 - Use **CAVAbuilder** to compile all files and settings into a project folder.
 - The folder will include:
   - Selected files
   - A unique **Photon App ID**
-  - An executable file (`.exe`) for launching the CAVA360VR<sup>2</sup> projet
+  - An executable file (`.exe`) for launching the CAVA360VR<sup>2</sup> project
+
+![image](https://github.com/user-attachments/assets/f8f00b91-9bd4-4480-bd42-ed1291ef7405)
+![image](https://github.com/user-attachments/assets/519d7f7f-a056-479e-8964-f9b7ce44204f)
 
 ## Step 5: Launch and Connect
 1. Share the project folder securely with all participants.
@@ -71,49 +75,76 @@ When you run the software and enter the designated room, then you will see the 3
 The 2D video clip and the transcript are only visible if the user performs the command to do so (see below).
 
 ## 10 featured tools of CAVA<sup>2</sup>
-# VR Tools in CAVA<sup>2</sup>
 
 ## 1. **File browser**
 - Access and open all media files (360-degree videos, 2D media, images) within the VR environment.
 - Files can be repositioned and scaled for optimal viewing.
+![image](https://github.com/user-attachments/assets/e69f39d2-d36f-4298-91e1-8b4139cb75a7)
+
 
 ## 2. **Timeline navigation**
 - Navigate to specific points in videos using a timeline.
 - Playback is synchronized across all participants in real-time.
+
+![image](https://github.com/user-attachments/assets/fb654797-3677-4721-811a-cbbddc2317a9)
+
 
 ## 3. **Drawing tool**
 - Annotate directly on 360-degree videos.
 - Features adjustable brush sizes and erasing capabilities.
 - Drawings are visible to all participants throughout the video.
 
+![image](https://github.com/user-attachments/assets/99b32a36-8003-4560-93e9-f0ee29c5c082)
+
+
 ## 4. **Laser pointer**
 - Visualizes user focus and direction with an animated trail.
 - Helps with pointing and guiding others in the shared environment.
+
+![image](https://github.com/user-attachments/assets/26d86f42-9de6-475e-a550-0254e42a8678)
+
 
 ## 5. **Teleport function**
 - Allows users to move within the VR space by selecting a new location.
 - Facilitates dynamic group formations and better spatial interaction.
 
+![image](https://github.com/user-attachments/assets/0b02755b-f9c8-430c-a3e3-0364b5ba25b4)
+
+
 ## 6. **Multiple video portals**
 - Switch between different 360-degree video perspectives.
 - Communication remains synchronized across all portals.
 
+![image](https://github.com/user-attachments/assets/560fbdc4-736c-4543-8e02-790a726be451)
+
+
 ## 7. **Avatar customization**
 - Each participant is assigned a unique colour for easy identification.
 - Colors appear on avatars, laser pointers, drawings, and portal indicators.
+
+![image](https://github.com/user-attachments/assets/7c74d03f-cca8-4bff-bc42-d4689a6d497b)
+
 
 ## 8. **Transcript viewer**
 - CAVA<sup>2</sup> can read and display DOTE transcripts synchronised with the video
 - Displays synchronized transcripts linked to video playback.
 - Users can navigate videos using transcript timestamps.
 
+![image](https://github.com/user-attachments/assets/eb16fe16-f4ff-4301-a198-9079fcd34972)
+
+
 ## 9. **Zoom and rotate**
 - Media objects, including video portals, can be zoomed and rotated.
 - Enhances spatial alignment and collaborative focus.
 
+![image](https://github.com/user-attachments/assets/5be49073-3d37-4a35-9013-a1f741509072)
+
+
 ## 10. **Portal color indicators**
 - Colored rings around portals show which participants are inside.
 - Dynamic updates reflect user movement between portals.
+
+![image](https://github.com/user-attachments/assets/c4075b22-5f96-4015-b112-e18b05ad25f1)
 
 
 
