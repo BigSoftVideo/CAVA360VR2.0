@@ -2,7 +2,7 @@ This is a help guide for setting up and using our open-source beta version of mu
 
 ## Requirements
 
-Anyone who wishes to take part in a CAVA360VR session needs to install a version of the software on their laptop/PC with Windows 10 /11.
+Anyone who wishes to take part in a CAVA<sup>2</sup> session needs to install a version of the software on their laptop/PC with Windows 10 /11.
 An internet connection is required.
     - A VR headset installed with SteamVR.
     - Most high-end VR headsets work that have to be connected to a computer, eg. HTC VIVE PRO, HP REVERB, OCULUS RIFT, HTC COSMOS, VALVE INDEX have been tested.
@@ -25,10 +25,10 @@ Follow these steps
   - HP Reverb G2
 - Confirm that built-in microphones are functioning for voice communication.
 
-## Step 2: Obtain the CAVA360VR2 Installer
+## Step 2: Obtain the CAVA<sup>2</sup> Installer
 - Acquire the **CAVA360VR<sup>2</sup>** and the **CAVAbuilder tool** via this link.
 
-## Step 3: Install and Configure CAVA360VR2
+## Step 3: Install and Configure CAVA<sup>2</sup>
 1. Launch the **CAVAbuilder tool**.
 2. Input and verify your **Photon Voice App ID**:
    - Sign up for Photon Engine services [here](https://www.photonengine.com/).
@@ -59,32 +59,69 @@ Follow these steps
 - Follow GDPR regulations by avoiding the inclusion of sensitive personal data.
 
 
-```
-CAVA360VR_Data
-MonoBleedingEdge
-CAVA360VR.exe
-UnityCrashHandler64.exe
-UnityPlayer.dll
-```
+## How to use CAVA<sup>2</sup>
 
-## How to use CAVA360VR
+After distributing the project to your peers - you all need to run the exe.file. As the Photon ID is embedded in the project code - you will all enter the same virtual room. 
+Remember to add your username for the session.
 
-Every time you run CAVA360VR you will need to connect to a remote server to access the CAVA room that you or another user has designated.
-Everyone has to connect to the same room, so type the exact name into the box.
-Also, add your username for the session.
-Don't forget to untick the VR mode box if you do NOT have a VR headset.
-If the room name is correct, then you will see other users and their avatars in the room if they are already present.
 
 NOTE: The basic version of CAVA360VR comes with the Lego Demo Project, which has two videos and a transcript included under a Creative Commons CC BY-NC-SA 4.0 International license.
 The video data for this project is about 160MB.
 When you run the software and enter the designated room, then you will see the 360 video automatically.
 The 2D video clip and the transcript are only visible if the user performs the command to do so (see below).
 
+## 10 featured tools of CAVA<sup>2</sup>
+# VR Tools in CAVA<sup>2</sup>
+
+## 1. **File browser**
+- Access and open all media files (360-degree videos, 2D media, images) within the VR environment.
+- Files can be repositioned and scaled for optimal viewing.
+
+## 2. **Timeline navigation**
+- Navigate to specific points in videos using a timeline.
+- Playback is synchronized across all participants in real-time.
+
+## 3. **Drawing tool**
+- Annotate directly on 360-degree videos.
+- Features adjustable brush sizes and erasing capabilities.
+- Drawings are visible to all participants throughout the video.
+
+## 4. **Laser pointer**
+- Visualizes user focus and direction with an animated trail.
+- Helps with pointing and guiding others in the shared environment.
+
+## 5. **Teleport function**
+- Allows users to move within the VR space by selecting a new location.
+- Facilitates dynamic group formations and better spatial interaction.
+
+## 6. **Multiple video portals**
+- Switch between different 360-degree video perspectives.
+- Communication remains synchronized across all portals.
+
+## 7. **Avatar customization**
+- Each participant is assigned a unique colour for easy identification.
+- Colors appear on avatars, laser pointers, drawings, and portal indicators.
+
+## 8. **Transcript viewer**
+- CAVA<sup>2</sup> can read and display DOTE transcripts synchronised with the video
+- Displays synchronized transcripts linked to video playback.
+- Users can navigate videos using transcript timestamps.
+
+## 9. **Zoom and rotate**
+- Media objects, including video portals, can be zoomed and rotated.
+- Enhances spatial alignment and collaborative focus.
+
+## 10. **Portal color indicators**
+- Colored rings around portals show which participants are inside.
+- Dynamic updates reflect user movement between portals.
+
+
+
 ## Commands and shortcuts for VR
 
 This diagram lists all the commands and shortcuts that are possible for both modes.
 
-![Diagram of commands](media/commands.png)
+![Diagram of commands](media/commands.png) #must be updated
 
 The top section shows the VR controller button actions.
 Sometimes you have to play around with the controller for the VR setup to find where the `MENU 2` button or the grip is located.
@@ -92,7 +129,7 @@ On some VR controllers the touchpad is replaced by a joystick; experiment to fin
 The bottom section shows the keyboard commands and shortcuts to do the equivalent action in non-VR mode.
 Non-VR mode users can do everything that VR mode users can do, except use the drawing tools to mark up the video.
 
-## Cooperating in CAVA360VR rooms
+## Cooperating in CAVA<sup>2</sup> rooms
 
 It is really important to appreciate how CAVA360VR affords a particular democratic model of virtual cooperation.
 Basically, all tools are shared by everyone, even though you can reposition them independently.
@@ -110,7 +147,7 @@ Note that the mirror cam supports a host, but anyone can take over the host role
 
 To setup CAVA360VR to use your data, then there are some steps to follow:
 
-1. Locate and open the folder in which the CAVA360VR program resides and run the program.
+1. Locate and open the folder in which the CAVA<sup>2</sup> program resides and run the program.
 2. 
 
 
@@ -122,7 +159,7 @@ NOTE: If you require encryption, then you will have to use free zip archiving so
 You can add a password and send that password to everyone who needs to unzip the archive.
 This zip archive can be sent to everyone who needs it.
 
-NOTE: If a user downloads the wrong CAVA360VR package, then they will see a different 360 video and things will get a little crazy.
+NOTE: If a user downloads the wrong CAVA<sup>2</sup> package, then they will see a different 360 video and things will get a little crazy.
 
 ## NOTES on 360 and 2D video clips
 - The resolution and bit rate of the 360 video should be as high as possible, otherwise the video playback will be blocky and blurred in VR.
@@ -136,14 +173,12 @@ _MistikaVR_ has tools for re-stabilising, but it is not free and it takes some e
 - The 2D video clip is best at HD resolution, not 4K.
 
 ## Notes
-- At present, CAVA360VR is a prototype. 
-It is not meant for public use.
-Please do not share with others unless permission has been given by the developers.
+- At present, CAVA<sup>2</sup> is a working open-source prototype. 
 - CAVA360VR uses a multi-user network gaming service that requires an account.
 When setting up a session with your own data, you will need to apply for an account on the Photon platform.
-This will allow 20 simultaneous users per session of CAVA360VR.
+This will allow 20 simultaneous users per session of CAVA<sup>2</sup>.
 If several groups are using the same accoount at the same time but independently, then the total number of users still cannot exceed 20.
-- Because of these restrictions, please do not use CAVA360VR for non-research purposes.
+- Because of these restrictions, please do not use CAVA<sup>2</sup> for non-research and educational purposes.
 
 ## Bug reports
 
