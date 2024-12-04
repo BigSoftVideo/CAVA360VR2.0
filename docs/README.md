@@ -49,9 +49,12 @@ Follow these steps
   - All the added media files
   - A unique **Photon App ID**
   - An executable file (`.exe`) for launching the CAVA360VR<sup>2</sup> project
+ 
 
-![image](builder1.png)
-![image](builder2.png)
+![Alt text](media/Builder1.png)
+
+![media](builder1.png)
+![media](builder2.png)
 
 ## Step 5: Launch and Connect
 1. Share the project folder securely with all participants.
