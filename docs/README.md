@@ -156,7 +156,7 @@ The 2D video clip and the transcript are only visible if the user performs open 
 
 This two diagrams list all the commands and shortcuts that are possible in VR.
 
-![Right controller] (![image](https://github.com/user-attachments/assets/47df455d-9be7-4623-84ad-a3dd3eda52ac)
+![Right controller](![image](https://github.com/user-attachments/assets/47df455d-9be7-4623-84ad-a3dd3eda52ac)
 
 ![Left controller](https://github.com/user-attachments/assets/fc6e2955-3433-4775-a595-de53c4383d54)
 
