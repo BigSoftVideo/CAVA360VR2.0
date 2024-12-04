@@ -30,7 +30,7 @@ Follow these steps
 - Confirm that built-in microphones are functioning for voice communication.
 
 ## Step 2: Obtain the CAVA<sup>2</sup> installer
-- Acquire the **CAVA360VR<sup>2</sup>** and the **CAVAbuilder tool** via this link (link to github repo).
+- Acquire the **CAVAbuilder tool** to make your **CAVA360VR<sup>2</sup>** via this link (link to github repo).
 
 ## Step 3: Install and configure CAVA<sup>2</sup>
 1. Launch the **CAVAbuilder tool**.
@@ -82,6 +82,7 @@ The 2D video clip and the transcript are only visible if the user performs open 
 ## 1. **File browser**
 - Access and open all media files (360-degree videos, 2D media, images) within the VR environment.
 - Files can be repositioned and scaled for optimal viewing.
+
 ![File browser](https://github.com/user-attachments/assets/e69f39d2-d36f-4298-91e1-8b4139cb75a7)
 
 
