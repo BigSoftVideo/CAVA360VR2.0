@@ -50,8 +50,8 @@ Follow these steps
   - A unique **Photon App ID**
   - An executable file (`.exe`) for launching the CAVA360VR<sup>2</sup> project
 
-![image](https://github.com/user-attachments/assets/f8f00b91-9bd4-4480-bd42-ed1291ef7405)
-![image](https://github.com/user-attachments/assets/519d7f7f-a056-479e-8964-f9b7ce44204f)
+![image](builder1.png)
+![image](builder2.png)
 
 ## Step 5: Launch and Connect
 1. Share the project folder securely with all participants.
@@ -156,7 +156,7 @@ The 2D video clip and the transcript are only visible if the user performs open 
 
 This two diagrams list all the commands and shortcuts that are possible in VR.
 
-![Right controller](![image](https://github.com/user-attachments/assets/47df455d-9be7-4623-84ad-a3dd3eda52ac)
+![Right controller](https://github.com/user-attachments/assets/47df455d-9be7-4623-84ad-a3dd3eda52ac)
 
 ![Left controller](https://github.com/user-attachments/assets/fc6e2955-3433-4775-a595-de53c4383d54)
 
