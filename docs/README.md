@@ -34,7 +34,7 @@ Follow these steps
 
 ## Step 3: Install and configure CAVA<sup>2</sup>
 1. Launch the **CAVAbuilder tool**.
-2. Input and verify your **Photon Voice App ID**:
+2. Input and validate your **Photon Voice App ID**:
    - Sign up for Photon Engine services [here](https://www.photonengine.com/).
    - Note: The free version supports up to 20 users.
 3. Add synchronized (it is really important that the media files are in sync) media files to your project:
@@ -157,9 +157,9 @@ The 2D video clip and the transcript are only visible if the user performs open 
 
 This two diagrams list all the commands and shortcuts that are possible in VR.
 
-![Right controller](https://github.com/user-attachments/assets/47df455d-9be7-4623-84ad-a3dd3eda52ac)
+![Right controller](media/Right.png)
 
-![Left controller](https://github.com/user-attachments/assets/fc6e2955-3433-4775-a595-de53c4383d54)
+![Left controller](media/Left.png)
 
 
 The top section shows the VR controller button actions.
