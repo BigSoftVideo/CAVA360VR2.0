@@ -223,5 +223,18 @@ This link will only work if you have an account on GitHub and are a member of th
 
 ## Using DISCORD to communicate directly with the developers
 
+## How to cite
+Davidsen, J., McIlvenny, P., Paulsen, L., & Larsen, A. C. M. (2024). CAVA360VR2.0. Manuscript in preparation. Computer programme
+
 We are using a channel `#beta-cava360vr` on our BigVideo server on Discord to share thoughts and fix issues interactively with beta-testers.
 Please ask the developers if you would like to join.
+
+## Research papers mentioning CAVA360VR
+
+Davidsen, J., & McIlvenny, P. (2022). Towards Collaborative Immersive Qualitative Analysis. In Weinberger, Armin, W. Chen, D. Hernández-Leo, & B. Chen (Eds.), CSCL2022 conference proceedings. ISLS.
+
+McIlvenny, P. (2020). New Technology And Tools To Enhance Collaborative Video Analysis In Live ‘Data Sessions. QuiViRR: Qualitative Video Research Reports, 1, a0001–a0001. https://doi.org/10.5278/ojs.quivirr.v1.2020.a0001
+
+Paulsen, L., & Davidsen, J. (2024). A Model for Collaborative Immersive Classroom Management Development Using Multi-user Virtual Realit. 23rd European Conference on E-Learning (ECEL 2024). European Conference on e-Learning (ECEL 2024), Porto.
+
+Vatanen, A., Spets, H., Siromaa, M., Rauniomaa, M., & Keisanen, T. (2022). Experiences in Collecting 360° Video Data and Collaborating Remotely in Virtual Reality. QuiViRR: Qualitative Video Research Reports, 3, a0005. https://doi.org/10.54337/ojs.quivirr.v3.2022.a0005
