@@ -226,6 +226,10 @@ This link will only work if you have an account on GitHub and are a member of th
 
 ## Using DISCORD to communicate directly with the developers
 
+## History
+
+The _CAVA360VR<sup>2</sup>_ software package was initially developed as a prototype in 2024 by Anton Larsen according to the design specifications of Jacob Davidsen (@codeslayer84) and Paul McIlvenny (@skandilocks) in the [BigSoftVideo](https://github.com/bigsoftvideo) team at Aalborg University, Denmark. Lucas Paulsen (@xx) played a crucial role in designing and testing CAVA360VR<sup>2</sup>.
+
 ## How to cite
 Davidsen, J., McIlvenny, P., Paulsen, L., & Larsen, A. C. M. (2024). CAVA360VR2.0. Manuscript in preparation. Computer programme
 
