@@ -52,9 +52,7 @@ Follow these steps
  
 
 ![Alt text](media/Builder1.png)
-
-![media](builder1.png)
-![media](builder2.png)
+![Alt text](media/Builder2.png)
 
 ## Step 5: Launch and Connect
 1. Share the project folder securely with all participants.
@@ -86,14 +84,14 @@ The 2D video clip and the transcript are only visible if the user performs open 
 - Access and open all media files (360-degree videos, 2D media, images) within the VR environment.
 - Files can be repositioned and scaled for optimal viewing.
 
-![File browser](https://github.com/user-attachments/assets/e69f39d2-d36f-4298-91e1-8b4139cb75a7)
+![File browser](media/Filebrowser.png)
 
 
 ## 2. **Timeline navigation**
 - Navigate to specific points in videos using a timeline.
 - Playback is synchronized across all participants in real-time.
 
-![Timeline navigation](https://github.com/user-attachments/assets/fb654797-3677-4721-811a-cbbddc2317a9)
+![Timeline navigation](media/Timelinenavi.png)
 
 
 ## 3. **Drawing tool**
@@ -101,35 +99,35 @@ The 2D video clip and the transcript are only visible if the user performs open 
 - Features adjustable brush sizes and erasing capabilities.
 - Drawings are visible to all participants throughout the video.
 
-![Drawing tool](https://github.com/user-attachments/assets/99b32a36-8003-4560-93e9-f0ee29c5c082)
+![Drawing tool](media/Drawingtool.png)
 
 
 ## 4. **Laser pointer with animated trail**
 - Visualizes user focus and direction with an animated trail.
 - Helps with pointing and guiding others in the shared environment.
 
-![Laser pointer](https://github.com/user-attachments/assets/26d86f42-9de6-475e-a550-0254e42a8678)
+![Laser pointer](media/lasertrail.png)
 
 
 ## 5. **Teleport option**
 - Allows users to move within the VR space by selecting a new location.
 - Facilitates dynamic group formations and better spatial interaction.
 
-![Teleport optiion](https://github.com/user-attachments/assets/0b02755b-f9c8-430c-a3e3-0364b5ba25b4)
+![Teleport optiion](media/Teleport.png)
 
 
 ## 6. **Multiple video portals**
 - Switch between different 360-degree video perspectives.
 - Communication remains synchronized across all portals.
 
-![Multiple video portals](https://github.com/user-attachments/assets/560fbdc4-736c-4543-8e02-790a726be451)
+![Multiple video portals](media/Multivideo.png)
 
 
 ## 7. **Avatar customization**
 - Each participant is assigned a unique colour for easy identification.
 - Colors appear on avatars, laser pointers, drawings, and portal indicators.
 
-![Avatar](https://github.com/user-attachments/assets/7c74d03f-cca8-4bff-bc42-d4689a6d497b)
+![Avatar](media/Avatarcolours.png)
 
 
 ## 8. **Transcript viewer**
@@ -137,21 +135,21 @@ The 2D video clip and the transcript are only visible if the user performs open 
 - Displays synchronized transcripts linked to video playback.
 - Users can navigate videos using transcript timestamps.
 
-![DOTE transcripts](https://github.com/user-attachments/assets/eb16fe16-f4ff-4301-a198-9079fcd34972)
+![DOTE transcripts](media/Transcript.png)
 
 
 ## 9. **Zoom and rotate**
 - Media objects, including video portals, can be zoomed and rotated.
 - Enhances spatial alignment and collaborative focus.
 
-![Zoom and rotate objects](https://github.com/user-attachments/assets/5be49073-3d37-4a35-9013-a1f741509072)
+![Zoom and rotate objects](media/ZoomRotate.png)
 
 
 ## 10. **Portal colour indicators**
 - Colored rings around portals show which participants are inside.
 - Dynamic updates reflect user movement between portals.
 
-![Coloured portals](https://github.com/user-attachments/assets/c4075b22-5f96-4015-b112-e18b05ad25f1)
+![Coloured portals](media/colouredportals.png)
 
 
 
