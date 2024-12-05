@@ -1,10 +1,10 @@
-# CAVA360VR beta testing
+# CAVA360VR<sup>2</sup>
 
-Private repo for beta testers of multi-user CAVA360VR
+Repo for users of multi-user CAVA360VR
 
 ## How to download and setup a build of CAVA360VR
 
-It is quite easy to download a release build as a ZIP file, unzip it on your computer and run it on WINDOWS 10. 
+It is quite easy to download a release build as a ZIP file, unzip it on your computer and run it on WINDOWS 10/11. 
 Look for the latest version on the [RELEASES](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/releases) page in this repo.
 
 ## Bug reports
