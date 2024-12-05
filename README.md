@@ -19,6 +19,6 @@ How to enter a [feature request or enhancement](https://github.com/BigSoftVideo/
 
 You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/projects/1)
 
-## Using SLACK to communicate directly with the developers
+## Using DISCORD to communicate directly with the developers
 
 We are using a workspace on Slack to share thoughts and fix issues interactively
