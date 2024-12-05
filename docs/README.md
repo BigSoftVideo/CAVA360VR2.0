@@ -1,6 +1,6 @@
-This is a help guide for setting up and using our open-source version of multi-user CAVA360VR<sup>2</sup> (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_). CAVA<sup>2</sup> is multiuser Virtual Reality application build with Unity and Photon Engine. CAVA<sup>2</sup> is built on our prototype CAVA360VR (never released) and our free tool [AVA360VR](https://bigsoftvideo.github.io/AVA360VR/). Our ambition is to create an open source project for collaborative immersive analysis and training. 
+This is a help guide for setting up and using our open-source version of CAVA360VR<sup>2</sup> (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_). CAVA<sup>2</sup> is multiuser Virtual Reality application built with Unity and Photon Engine. It is also possible to run CAVA<sup>2</sup> in desktop mode on windows 10/11 (not mac). CAVA<sup>2</sup> is an extension of our software prototype CAVA360VR (never released) and our free tool [AVA360VR](https://bigsoftvideo.github.io/AVA360VR/). Our ambition is to create an open project for collaborative immersive analysis and training. 
 
-Below we outline the requirements, how to set up a project, 10 features of CAVA<sup>2</sup> and how to contribute to the project. 
+Below we outline the requirements, how to set up a new project, 10 features of CAVA<sup>2</sup> and how to contribute to the project. 
 
 
 ## Requirements
@@ -17,7 +17,7 @@ An internet connection is required to make the magic happen.
 
 It is quite easy to download a release as a ZIP file, unzip it on your computer and run it on WINDOWS 10/11.
 The downloaded file is the CAVA<sup>2</sup>Builder, which you need to create a CAVA<sup>2</sup> session. 
-So you need to create build before you can run a CAVA<sup>2</sup> session. 
+So you need to create a build before you can run a CAVA<sup>2</sup> session. 
 
 Follow these steps
 ## Step 1: Prepare your system
@@ -37,7 +37,8 @@ Follow these steps
 2. Input and validate your **Photon Voice App ID**:
    - Sign up for Photon Engine services [here](https://www.photonengine.com/).
    - Note: The free version supports up to 20 users.
-3. Add synchronized (it is really important that the media files are in sync) media files to your project:
+   - Create your own app server - _select voice_ when creating the server
+3. Add synchronised (it is really important that the media files are in sync) media files to your project:
    - 360-degree videos
    - 2D video files
    - Images or 3D objects
@@ -54,12 +55,12 @@ Follow these steps
 ![Alt text](media/Builder1.png)
 ![Alt text](media/Builder2.png)
 
-## Step 5: Launch and Connect
+## Step 5: Share, Launch and Connect
 1. Share the project folder securely with all participants.
 2. Open the `.exe` file on each participant's system.
 3. Enter your preferred username when prompted.
 4. Begin your collaborative VR session:
-   - Use the **file browser**, timeline, and CAVA<sup>2</sup> tools to navigate and collaborate in the VR space.
+   - Use the **file browser**, timeline, and other CAVA<sup>2</sup> tools to navigate and collaborate in the VR space.
 
 ---
 
@@ -68,15 +69,10 @@ Follow these steps
 - Follow GDPR regulations by avoiding the inclusion of sensitive personal data (this is entirely your responsibility)
 
 
-## How to use CAVA<sup>2</sup>
-
-After distributing the project to your peers - you all need to run the exe.file. As the Photon ID is embedded in the project code - you will all enter the same virtual room. 
-Remember to add your username for the session.
-
-##DEMO project
+<!---##DEMO project
 On the Github page you can also find a DEMO project. The DEMO project contains a number of video files. So you can just try out the software before building your own project. 
 When you run the software and enter the designated room, then you first have to open the file browser to open a 360-degree video. 
-The 2D video clip and the transcript are only visible if the user performs open them using the file browser
+The 2D video clip and the transcript are only visible if the user performs open them using the file browser-->
 
 ## 10 featured tools of CAVA<sup>2</sup>
 
@@ -131,7 +127,7 @@ The 2D video clip and the transcript are only visible if the user performs open 
 
 
 ## 8. **Transcript viewer**
-- CAVA<sup>2</sup> can read and display DOTE transcripts synchronised with the video
+- CAVA<sup>2</sup> can read and display [DOTE](https://www.dote.aau.dk) transcripts synchronised with the video 
 - Displays synchronized transcripts linked to video playback.
 - Users can navigate videos using transcript timestamps.
 
@@ -228,7 +224,7 @@ This link will only work if you have an account on GitHub and are a member of th
 
 ## History
 
-The _CAVA360VR<sup>2</sup>_ software package was initially developed as a prototype in 2024 by Anton Larsen according to the design specifications of Jacob Davidsen (@codeslayer84) and Paul McIlvenny (@skandilocks) in the [BigSoftVideo](https://github.com/bigsoftvideo) team at Aalborg University, Denmark. Lucas Paulsen (@xx) played a crucial role in designing and testing CAVA360VR<sup>2</sup>.
+The _CAVA360VR<sup>2</sup>_ software package was initially developed as a prototype in 2024 by Anton Larsen (@alarse16) according to the design specifications of Jacob Davidsen (@codeslayer84) and Paul McIlvenny (@skandilocks) in the [BigSoftVideo](https://github.com/bigsoftvideo) team at Aalborg University, Denmark. Lucas Paulsen (@xx) played a crucial role in designing and testing CAVA360VR<sup>2</sup>.
 
 ## How to cite
 Davidsen, J., McIlvenny, P., Paulsen, L., & Larsen, A. C. M. (2024). CAVA360VR2.0. Manuscript in preparation. Computer programme
@@ -239,6 +235,10 @@ Please ask the developers if you would like to join.
 ## Research papers mentioning CAVA360VR
 
 Davidsen, J., & McIlvenny, P. (2022). Towards Collaborative Immersive Qualitative Analysis. In Weinberger, Armin, W. Chen, D. Hernández-Leo, & B. Chen (Eds.), CSCL2022 conference proceedings. ISLS.
+
+Davidsen, J., Larsen, D. V., Paulsen, L., & Rasmussen, S. (2022). 360VR PBL: A new format of digital cases in clinical medicine. Journal of Problem Based Learning in Higher Education. https://doi.org/10.54337/ojs.jpblhe.v10i1.7097
+
+Davidsen, J., Larsen, D. V., Rasmussen, S., & Paulsen, L. (2024). Collaborative 360° Virtual Reality training of medical students in clinical examinations. Medical Education Online. https://doi.org/10.1080/10872981.2024.2412398
 
 McIlvenny, P. (2020). New Technology And Tools To Enhance Collaborative Video Analysis In Live ‘Data Sessions. QuiViRR: Qualitative Video Research Reports, 1, a0001–a0001. https://doi.org/10.5278/ojs.quivirr.v1.2020.a0001
 
