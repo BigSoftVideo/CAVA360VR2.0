@@ -74,7 +74,7 @@ On the Github page you can also find a DEMO project. The DEMO project contains a
 When you run the software and enter the designated room, then you first have to open the file browser to open a 360-degree video. 
 The 2D video clip and the transcript are only visible if the user performs open them using the file browser-->
 
-## 10 featured tools of CAVA<sup>2</sup>
+## 11 featured tools of CAVA<sup>2</sup>
 
 ## 1. **File browser**
 - Access and open all media files (360-degree videos, 2D media, images) within the VR environment.
@@ -146,6 +146,10 @@ The 2D video clip and the transcript are only visible if the user performs open 
 - Dynamic updates reflect user movement between portals.
 
 ![Coloured portals](media/colouredportals.png)
+
+## 11. **Mirror cam**
+- Activate the mirror cam to see what is behind you
+- Lock the mirror cam and reposition the window in the 360VR space
 
 
 
