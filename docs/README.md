@@ -153,9 +153,9 @@ The 2D video clip and the transcript are only visible if the user performs open 
 
 
 
-## Commands and shortcuts for VR
+## Commands and shortcuts for VR mode
 
-This two diagrams list all the commands and shortcuts that are possible in VR.
+These two diagrams list all the commands and shortcuts that are possible in VR.
 
 ![Right controller](media/Right.png)
 
@@ -165,12 +165,14 @@ This two diagrams list all the commands and shortcuts that are possible in VR.
 The top section shows the VR controller button actions.
 Sometimes you have to play around with the controller for the VR setup to find where the `MENU 2` button or the grip is located.
 On some VR controllers the touchpad is replaced by a joystick; experiment to find out how to view and select from the options on the radial menus.
-<!---The bottom section shows the keyboard commands and shortcuts to do the equivalent action in non-VR mode.
-Non-VR mode users can do everything that VR mode users can do, except use the drawing tools to mark up the video.-->
+
+
+## Commands and shortcuts for desktop mode
+The diagram lists all the commands and shortcuts that are possible in desktop mode
 
 ## Cooperating in CAVA<sup>2</sup> rooms
 
-It is really important to appreciate how CAVA360VR affords a particular democratic model of virtual cooperation.
+It is really important to appreciate how CAVA360VR affords a particular democratic model of virtual collaboration.
 Basically, all tools are shared by everyone, even though you can reposition them independently.
 If a tool is opened, then everyone sees it, eg. timeline, transcript, 2D video window or mirror cam.
 Note that where the tool is located in 3D is personal to each avatar.
@@ -179,7 +181,7 @@ Thus, it supports more democratic participation than the host/guest model.
 For example, Zoom has a built-in host/guest model that means the host(s) have more privileges than guests.
 Guests cannot do very much in a room, unless given permission by the host(s).
 However, the CAVA model can be abused if everyone tries to take control of a tool at the same time!
-Thus, cooperation can often be better managed via the share audio chat channel.
+Thus, collaboration can often be better managed via the share audio chat channel.
 <!---Note that the mirror cam supports a host, but anyone can take over the host role at will.-->
 
 
@@ -236,7 +238,7 @@ Davidsen, J., McIlvenny, P., Paulsen, L., & Larsen, A. C. M. (2024). CAVA360VR2.
 We are using a channel `#beta-cava360vr` on our BigVideo server on Discord to share thoughts and fix issues interactively with beta-testers.
 Please ask the developers if you would like to join.
 
-## Research papers mentioning CAVA360VR
+## Research papers related to CAVA360VR<sup>2</sup>
 
 Davidsen, J., & McIlvenny, P. (2022). Towards Collaborative Immersive Qualitative Analysis. In Weinberger, Armin, W. Chen, D. Hernández-Leo, & B. Chen (Eds.), CSCL2022 conference proceedings. ISLS.
 
@@ -244,7 +246,21 @@ Davidsen, J., Larsen, D. V., Paulsen, L., & Rasmussen, S. (2022). 360VR PBL: A n
 
 Davidsen, J., Larsen, D. V., Rasmussen, S., & Paulsen, L. (2024). Collaborative 360° Virtual Reality training of medical students in clinical examinations. Medical Education Online. https://doi.org/10.1080/10872981.2024.2412398
 
+
+
+Davidsen, J., McIlvenny, P., & Kovács, A. B. (2022). Volumetric Capture and Replay in Virtual Reality – Entering the age of immersive and volumetric analysis in CSCL. In Weinberger, Armin, W. Chen, D. Hernández-Leo, & B. Chen (Eds.), CSCL2022 conference proceedings. ISLS.
+
+Davidsen, J., McIlvenny, P., & Ryberg, T. (2023). Researching Interactional and Volumetric Scenographies – Immersive Qualitative Digital Research. In P. Jandric, A. MacKenzie, & J. Knox (Eds.), Postdigital Research. Cham: Springer.
+
+McIlvenny, P. (2018). Inhabiting Spatial Video And Audio Data: Towards A Scenographic Turn In The Analysis Of Social Interaction. Social Interaction. Video-Based Studies of Human Sociality, 2(1). https://doi.org/10.7146/si.v2i1.110409
+
 McIlvenny, P. (2020). New Technology And Tools To Enhance Collaborative Video Analysis In Live ‘Data Sessions. QuiViRR: Qualitative Video Research Reports, 1, a0001–a0001. https://doi.org/10.5278/ojs.quivirr.v1.2020.a0001
+
+McIlvenny, P. (2020). The Future Of ‘Video’ In Video-Based Qualitative Research Is Not ‘Dumb’ Flat Pixels! Exploring Volumetric Performance Capture And Immersive Performative Replay. Qualitative Research, 146879412090546. https://doi.org/10.1177/1468794120905460
+
+McIlvenny, P., & Davidsen, J. (2017). A Big Video Manifesto: Re-sensing Video and Audio. Nordicom Information, 39(2), 15–21.
+
+McIlvenny, P., & Davidsen, J. (2023). Beyond Video: Using Practice-based VolCap Analysis to Understand Analytical Practices Volumetrically. In P. Haddington (Ed.), Methodological explorations in and for EMCA: Emerging directions for the study of social order. Routledge.
 
 Paulsen, L., & Davidsen, J. (2024). A Model for Collaborative Immersive Classroom Management Development Using Multi-user Virtual Realit. 23rd European Conference on E-Learning (ECEL 2024). European Conference on e-Learning (ECEL 2024), Porto.
 
