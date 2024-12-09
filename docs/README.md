@@ -232,6 +232,19 @@ This link will only work if you have an account on GitHub and are a member of th
 
 The _CAVA360VR<sup>2</sup>_ software package was initially developed as a prototype in 2024 by Anton Larsen (@alarse16) according to the design specifications of Jacob Davidsen (@codeslayer84) and Paul McIlvenny (@skandilocks) in the [BigSoftVideo](https://github.com/bigsoftvideo) team at Aalborg University, Denmark. Lucas Paulsen (@xx) played a crucial role in designing and testing CAVA360VR<sup>2</sup>.
 
+## Contributors
+
+- BigSoftVideo design and conceptual development
+    - Jacob Davidsen
+    - Paul McIlvenny
+    - Lucas Paulsen
+- Software developer:
+    - Anton Christian Mondrup Larsen
+- Earlier software developers:
+    - Artúr Barnabás Kovács @ArturKovacs
+    - Nicklas Haagh Christensen
+    - Stefan Tanderup
+
 ## How to cite
 Davidsen, J., McIlvenny, P., Paulsen, L., & Larsen, A. C. M. (2024). CAVA360VR2.0. Manuscript in preparation. Computer programme
 
@@ -245,8 +258,6 @@ Davidsen, J., & McIlvenny, P. (2022). Towards Collaborative Immersive Qualitativ
 Davidsen, J., Larsen, D. V., Paulsen, L., & Rasmussen, S. (2022). 360VR PBL: A new format of digital cases in clinical medicine. Journal of Problem Based Learning in Higher Education. https://doi.org/10.54337/ojs.jpblhe.v10i1.7097
 
 Davidsen, J., Larsen, D. V., Rasmussen, S., & Paulsen, L. (2024). Collaborative 360° Virtual Reality training of medical students in clinical examinations. Medical Education Online. https://doi.org/10.1080/10872981.2024.2412398
-
-
 
 Davidsen, J., McIlvenny, P., & Kovács, A. B. (2022). Volumetric Capture and Replay in Virtual Reality – Entering the age of immersive and volumetric analysis in CSCL. In Weinberger, Armin, W. Chen, D. Hernández-Leo, & B. Chen (Eds.), CSCL2022 conference proceedings. ISLS.
 
