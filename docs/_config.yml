@@ -1,7 +1,7 @@
 theme: jekyll-theme-modernist
-title: CAVA360VR Beta-testing help guide
-description: Help pages for beta-testers
-URL: "https://bigsoftvideo.github.io/CAVA360VR-beta-testing"
+title: CAVA360VR2.0 help guide
+description: Help pages for CAVA2.0
+URL: "https://bigsoftvideo.github.io/CAVA360VR2.0"
 image: "media/logo.png"
 markdown: GFM
 plugins:
