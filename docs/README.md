@@ -42,7 +42,7 @@ Follow these steps
 ![Create Photon server](media/Photon_createapp.png)
 ![Setup Photon server](media/Photon_setupserver.png)
 ![Select voice sercer](media/Photon_voice.png)
-![Copy AP ID to the the CAVAbuilder](media/Photon_app.png)
+![Copy AP ID to the the CAVAbuilder](media/Photon_appID.png)
 
   
 3. Add synchronised (it is really important that the media files are in sync) media files to your project:
