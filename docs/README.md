@@ -39,8 +39,8 @@ Follow these steps
    - Note: The free version supports up to 20 users.
    - Create your own app server - _select voice_ when creating the server
 
-![Create Photon server](media/Photon_create.png)
-![Setup Photon server](media/Photon_setup_server.png)
+![Create Photon server](media/Photon_createapp.png)
+![Setup Photon server](media/Photon_setupserver.png)
 ![Select voice sercer](media/Photon_voice.png)
 ![Copy AP ID to the the CAVAbuilder](media/Photon_app.png)
 
