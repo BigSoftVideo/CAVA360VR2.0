@@ -177,6 +177,8 @@ On some VR controllers the touchpad is replaced by a joystick; experiment to fin
 ## Commands and shortcuts for desktop mode
 The diagram lists all the commands and shortcuts that are possible in desktop mode
 
+![Desktop shortcuts](media/Desktop.png)
+
 ## Cooperating in CAVA<sup>2</sup> rooms
 
 It is really important to appreciate how CAVA360VR affords a particular democratic model of virtual collaboration.
@@ -217,11 +219,6 @@ If several groups are using the same account at the same time but independently,
 
 How to enter a [bug report issue](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/issues/new/choose).
 This link will only work if you have an account on GitHub and are a member of the beta-testing group.
-
-## Contributing
-
-Please clone or fork the repo and contribute on GitHub.
-We welcome pull requests on the `development` branch or branches off development.
 
 ## Feature requests
 
