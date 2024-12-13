@@ -177,7 +177,7 @@ On some VR controllers the touchpad is replaced by a joystick; experiment to fin
 ## Commands and shortcuts for desktop mode
 The diagram lists all the commands and shortcuts that are possible in desktop mode
 
-![Desktop shortcuts](media/Desktop.png)
+![Desktop shortcuts](media/desktop.png)
 
 ## Cooperating in CAVA<sup>2</sup> rooms
 
