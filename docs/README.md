@@ -1,16 +1,17 @@
-This is a help guide for setting up and using our open-source version of CAVA360VR<sup>2</sup> (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_). CAVA<sup>2</sup> is multiuser Virtual Reality application built with Unity and Photon Engine. It is also possible to run CAVA<sup>2</sup> in desktop mode on windows 10/11 (not mac). CAVA<sup>2</sup> is an extension of our software prototype CAVA360VR (never released) and our free tool [AVA360VR](https://bigsoftvideo.github.io/AVA360VR/). Our ambition is to create an open project for collaborative immersive analysis and training. 
+This is a help guide for setting up and using our open-source version of CAVA360VR<sup>2</sup> (_Collaborate, Annotate, Visualise, Analyse 360 video in VR_). CAVA<sup>2</sup> is multiuser Virtual Reality application built with Unity and Photon Engine. It is also possible to run CAVA<sup>2</sup> in desktop mode on windows 10/11 (_not mac_). CAVA<sup>2</sup> is an extension of our software prototype CAVA360VR (never released) and our free tool [AVA360VR](https://bigsoftvideo.github.io/AVA360VR/). Our ambition is to create an open project for cross-platform collaborative immersive analysis and training. 
 
-Below we outline the requirements, how to set up a new project, 10 features of CAVA<sup>2</sup> and how to contribute to the project. 
+Below we outline the requirements, how to set up a new project, 11 features of CAVA<sup>2</sup> and how to report bugs or add suggetions to the project. 
 
 
 ## Requirements
 
-Anyone who wishes to take part in a CAVA<sup>2</sup> session needs to install a version of the software on their laptop/PC with Windows 10 /11. CAVA<sup>2</sup> is **not** available on stand-alone headsets. 
+Anyone who wishes to take part in a CAVA<sup>2</sup> session in VR needs to install a version of the software on their laptop/PC with Windows 10 /11. CAVA<sup>2</sup> is **not** available on stand-alone headsets. 
 An internet connection is required to make the magic happen.
     - A VR headset installed with SteamVR.
-    - Most high-end VR headsets work that have to be connected to a computer, eg. HTC VIVE PRO, HP REVERB, OCULUS RIFT, HTC COSMOS, VALVE INDEX have been tested.
+    - Most wired VR headsets work, eg. HTC VIVE PRO (1+2), HP REVERB, OCULUS RIFT, HTC COSMOS, VALVE INDEX have been tested.
     - The Oculus Quest 2 (with link) has been tested.
 - Make sure that your audio speakers and microphone are working on your computer or your VR headset.
+- If you don't have a VR headset you can still participate in a CAVA<sup>2</sup> on a Windows machine (CAVA<sup>2</sup> will check if you have plugged in a VR headset to your computer).
 
 
 ## How to download and setup CAVA360VR<sup>2</sup>
@@ -231,6 +232,7 @@ You will be able to track bugs and features as issues in our [project KANBAN boa
 This link will only work if you have an account on GitHub and are a member of the beta-testing group.
 
 ## Using DISCORD to communicate directly with the developers
+We are using a channel on Discord to share thoughts and fix issues interactively [Discord](https://discord.com/channels/732586315836817469/846814633105031180)
 
 ## History
 
@@ -250,10 +252,7 @@ The _CAVA360VR<sup>2</sup>_ software package was initially developed as a protot
     - Stefan Tanderup
 
 ## How to cite
-Davidsen, J., McIlvenny, P., Paulsen, L., & Larsen, A. C. M. (2024). CAVA360VR2.0. Manuscript in preparation. Computer programme
-
-We are using a channel `#beta-cava360vr` on our BigVideo server on Discord to share thoughts and fix issues interactively with beta-testers.
-Please ask the developers if you would like to join.
+Davidsen, J., McIlvenny, P., Paulsen, L., & Larsen, A. C. M. (2024). CAVA360VR2.0. Computer programme
 
 ## Research papers related to CAVA360VR<sup>2</sup>
 
