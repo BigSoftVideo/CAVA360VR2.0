@@ -82,82 +82,56 @@ On the Github page you can also find a DEMO project. The DEMO project contains a
 When you run the software and enter the designated room, then you first have to open the file browser to open a 360-degree video. 
 The 2D video clip and the transcript are only visible if the user performs open them using the file browser-->
 
-## 11 featured tools of CAVA<sup>2</sup>
+## 12 featured tools of CAVA<sup>2</sup>
 
-## 1. **File browser**
-- Access and open all media files (360-degree videos, 2D media, images) within the VR environment.
-- Files can be repositioned and scaled for optimal viewing.
+1. **CAVABuilder**
+   - Create and configure immersive collaborative 360VR projects.
+   - Add synchronized 360-degree videos, 2D videos, images, 3D objects, and DOTE transcripts.
+   - Compile projects into a distributable folder containing media files, Photon App ID, and an executable file (`.exe`).
 
-![File browser](media/Filebrowser.png)
+2. **VR File Browser**
+   - Access and manage all media files (360-degree videos, 2D media, images) within the VR environment.
+   - Open media files can be repositioned and scaled
 
+3. **Timeline Navigation**
+   - Navigate specific moments in videos using a shared timeline.
+   - Playback is synchronized across all participants (the butterfly effect).
 
-## 2. **Timeline navigation**
-- Navigate to specific points in videos using a timeline.
-- Playback is synchronized across all participants in real-time.
+4. **Drawing Tool**
+   - Annotate directly on 360-degree videos with adjustable brush sizes.
+   - Erase and modify drawings that are visible to all participants.
 
-![Timeline navigation](media/Timelinenavi.png)
+5. **Laser Pointer with Animated Trail**
+   - Visualize user focus and direction.
+   - Ideal for guiding and highlighting points during discussions.
 
+6. **Teleport Option**
+   - Move dynamically within the 360VR space.
+   - Facilitate group formations and enhance spatial interaction.
 
-## 3. **Drawing tool**
-- Annotate directly on 360-degree videos.
-- Features adjustable brush sizes and erasing capabilities.
-- Drawings are visible to all participants throughout the video.
+7. **Multiple Video Portals**
+   - Switch between various 360-degree video perspectives.
+   - Communication and synchronization remain intact across portals.
 
-![Drawing tool](media/Drawingtool.png)
+8. **Avatar Customization**
+   - Unique avatar colours for easy identification.
+   - Colors are reflected in pointers, drawings, and video portal indicators.
 
+9. **Transcript Viewer**
+   - Display and synchronize [DOTE transcripts](https://www.dote.aau.dk) with video playback.
+   - Navigate videos using timestamped transcript entries.
 
-## 4. **Laser pointer with animated trail**
-- Visualizes user focus and direction with an animated trail.
-- Helps with pointing and guiding others in the shared environment.
+10. **Zoom and Rotate**
+    - Adjust the size and orientation of media objects.
+    - Enhance spatial alignment for collaborative focus.
 
-![Laser pointer](media/lasertrail.png)
+11. **Portal Color Indicators**
+    - Colored rings show participants' positions within specific video portals.
+    - Dynamically update to reflect real-time user movement.
 
-
-## 5. **Teleport option**
-- Allows users to move within the VR space by selecting a new location.
-- Facilitates dynamic group formations and better spatial interaction.
-
-![Teleport optiion](media/Teleport.png)
-
-
-## 6. **Multiple video portals**
-- Switch between different 360-degree video perspectives.
-- Communication remains synchronized across all portals.
-
-![Multiple video portals](media/Multivideo.png)
-
-
-## 7. **Avatar customization**
-- Each participant is assigned a unique colour for easy identification.
-- Colors appear on avatars, laser pointers, drawings, and portal indicators.
-
-![Avatar](media/Avatarcolours.png)
-
-
-## 8. **Transcript viewer**
-- CAVA<sup>2</sup> can read and display [DOTE](https://www.dote.aau.dk) transcripts synchronised with the video 
-- Displays synchronized transcripts linked to video playback.
-- Users can navigate videos using transcript timestamps.
-
-![DOTE transcripts](media/Transcript.png)
-
-
-## 9. **Zoom and rotate**
-- Media objects, including video portals, can be zoomed and rotated.
-- Enhances spatial alignment and collaborative focus.
-
-![Zoom and rotate objects](media/ZoomRotate.png)
-
-
-## 10. **Portal colour indicators**
-- Colored rings around portals show which participants are inside.
-- Dynamic updates reflect user movement between portals.
-
-![Coloured portals](media/colouredportals.png)
-
-## 11. **Mirror cam**
-- Activate the mirror cam to see what is behind you
-- Lock the mirror cam and reposition the window in the 360VR space
+12. **Mirror camera**
+    - Activate the mirror cam to see what is behind you
+    - Lock the mirror cam and reposition the window in the 360VR space
 
 
 
