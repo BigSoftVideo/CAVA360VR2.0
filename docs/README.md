@@ -30,27 +30,28 @@ Follow these steps
   - HP Reverb G2
 - Confirm that built-in microphones are functioning for voice communication.
 
-## Step 2: Obtain the CAVA<sup>2</sup> installer
-- Acquire the **CAVAbuilder tool** to make your **CAVA360VR<sup>2</sup>** via this link (link to github repo).
-
-## Step 3: Install and configure CAVA<sup>2</sup>
-1. Launch the **CAVAbuilder tool**.
-2. Input and validate your **Photon Voice App ID**:
-   - Sign up for Photon Engine services [here](https://www.photonengine.com/).
-   - Note: The free version supports up to 20 users.
-   - Create your own app server - _select voice_ when creating the server
+## Step 2: Get your Photon Engine Server App Obtain the CAVA<sup>2</sup> installer
+- Sign up for Photon Engine services [here](https://www.photonengine.com/).
+- Note: The free version supports up to 20 users.
+- Create your own app server - _select voice_ when creating the server
 
 ![Create Photon server](media/Photon_createapp.png)
 ![Setup Photon server](media/Photon_setupserver.png)
 ![Select voice sercer](media/Photon_voice.png)
 ![Copy AP ID to the the CAVAbuilder](media/Photon_appID.png)
 
-  
-3. Add synchronised (it is really important that the media files are in sync) media files to your project:
+## Step 3: Download, Install and configure CAVA<sup>2</sup>
+1. Download [CAVAbuilder](xxx)
+2. Launch the **CAVAbuilder tool**.
+3. Input and validate your **Photon Voice App ID**:
+4. Use the CAVAbuilder to add synchronised (it is really important that the media files are in sync) media files to your project:
    - 360-degree videos
    - 2D video files
    - Images or 3D objects
    - DOTE transcript files
+  
+![Alt text](media/CAVAbuilder.png)
+![Alt text](media/CAVAbuilder_addfiles.png)
 
 ## Step 4: Build Your Project
 - Use **CAVAbuilder** to compile all files and settings into a project folder.
@@ -59,10 +60,6 @@ Follow these steps
   - A unique **Photon App ID**
   - An executable file (`.exe`) for launching the CAVA360VR<sup>2</sup> project
  
-
-![Alt text](media/Builder1.png)
-![Alt text](media/Builder2.png)
-
 ## Step 5: Share, Launch and Connect
 1. Share the project folder securely with all participants.
 2. Open the `.exe` file on each participant's system.
