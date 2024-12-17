@@ -17,7 +17,7 @@ How to enter a [feature request or enhancement](https://github.com/BigSoftVideo/
 
 ## Project
 
-You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/projects/1)
+You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/CAVA360VR/projects/1)
 
 ## Using DISCORD to communicate directly with the developers
 
