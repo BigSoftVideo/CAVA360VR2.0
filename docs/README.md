@@ -41,7 +41,7 @@ Follow these steps
 ![Copy AP ID to the the CAVAbuilder](media/Photon_appID.png)
 
 ## Step 3: Download, Install and configure CAVA<sup>2</sup>
-1. Download [CAVAbuilder](xxx)
+1. Download [CAVAbuilder](https://github.com/BigSoftVideo/CAVA360VR2.0/releases))
 2. Launch the **CAVAbuilder tool**.
 3. Input and validate your **Photon Voice App ID**:
 4. Use the CAVAbuilder to add synchronised (it is really important that the media files are in sync) media files to your project:
@@ -194,12 +194,12 @@ This link will only work if you have an account on GitHub and are a member of th
 
 ## Feature requests
 
-How to enter a [feature request or enhancement](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/issues/new/choose) to a tool issue.
+How to enter a [feature request or enhancement](https://github.com/BigSoftVideo/CAVA360VR2.0/issues/new/choose) to a tool issue.
 This link will only work if you have an account on GitHub and are a member of the beta-testing group.
 
 ## Tracking bugs and feature requests
 
-You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/CAVA360VR-beta-testing/projects/1).
+You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/CAVA360VR2.0/projects/1).
 This link will only work if you have an account on GitHub and are a member of the beta-testing group.
 
 ## Using DISCORD to communicate directly with the developers
